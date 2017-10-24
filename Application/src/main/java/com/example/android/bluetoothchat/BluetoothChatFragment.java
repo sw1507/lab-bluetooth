@@ -98,6 +98,7 @@ public class BluetoothChatFragment extends Fragment {
          *  TODO: Let us know via Toast Bluetooth is not available.
          *  TODO: Then finish() the fragment's attached Activity.
          */
+        //
     }
 
 
